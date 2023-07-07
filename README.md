@@ -9,4 +9,4 @@ Run it by npm start
 
 
 
-live linl https://playful-sundae-0d2fe5.netlify.app
+live link https://playful-sundae-0d2fe5.netlify.app
